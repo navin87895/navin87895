@@ -13,7 +13,8 @@ I'm a **B.Tech Graduate** and a **Web Developer & Tech Enthusiast**.
 ---
 
 ## Connect with me:  
-[LinkedIn](https://www.linkedin.com/in/navin-kumar-b92434231) | [GitHub](https://github.com/navin87895)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/navin-kumar-b92434231)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=fff)](https://github.com/navin87895)  
 
 ---
 
@@ -32,12 +33,13 @@ I'm a **B.Tech Graduate** and a **Web Developer & Tech Enthusiast**.
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=000)  
 
 
+---
 
 ## Certifications
 
-- **AWS Academy Cloud Foundations** — Amazon Web Services  
-- **AWS Academy Machine Learning Foundations** — Amazon Web Services  
-- **Mining & Automation Foundations** — Celonis Foundation  
+[![AWS Cloud Foundations](https://img.shields.io/badge/-AWS%20Cloud%20Foundations-FF9900?style=flat&logo=amazon-aws&logoColor=fff)](https://aws.amazon.com/training/)  
+[![AWS ML Foundations](https://img.shields.io/badge/-AWS%20ML%20Foundations-FF9900?style=flat&logo=amazon-aws&logoColor=fff)](https://aws.amazon.com/training/)  
+[![Mining & Automation Foundations](https://img.shields.io/badge/-Celonis-0072C6?style=flat&logo=celonis&logoColor=fff)](https://www.celonis.com/)  
 
 ---
 
